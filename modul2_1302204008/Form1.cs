@@ -2,7 +2,10 @@ namespace modul2_1302204008
 {
     public partial class Form1 : Form
     {
-
+        /*
+         * Nama = Fairuz Jamil Febriyansyah
+         * NIM  = 1302204008
+         */ 
         string input = string.Empty;
         string input1 = string.Empty ;
         string input2 = string.Empty ;
